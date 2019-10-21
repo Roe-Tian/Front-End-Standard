@@ -5,7 +5,7 @@
 
 ## 现有规范
 
-- [前端文件或资源规范](https://github.com/Roe-Tian/Front-End-Standard/issues/1)
+- [前端文件目录及命名规范](https://github.com/Roe-Tian/Front-End-Standard/issues/1)
 
 - [前端SEO规范](https://github.com/Roe-Tian/Front-End-Standard/issues/5)
 
@@ -14,3 +14,5 @@
 - [CSS编写规范](https://github.com/Roe-Tian/Front-End-Standard/issues/3)
 
 - [Javascript编写规范](https://github.com/Roe-Tian/Front-End-Standard/issues/4)
+
+- [媒体文件规范](https://github.com/Roe-Tian/Front-End-Standard/issues/6)
