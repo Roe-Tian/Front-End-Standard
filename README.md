@@ -7,7 +7,7 @@
 
 - [前端文件的目录及命名规范](https://github.com/Roe-Tian/Front-End-Standard/issues/1)
 
-- [前端SEO](https://github.com/Roe-Tian/Front-End-Standard/issues/5)
+- [前端SEO规范](https://github.com/Roe-Tian/Front-End-Standard/issues/5)
 
 - [HTML编写规范](https://github.com/Roe-Tian/Front-End-Standard/issues/2)
 
